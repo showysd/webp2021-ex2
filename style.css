@@ -44,6 +44,15 @@ body {
   border: 5px solid black;
 }
 
+h6 {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #d3d3d3;
+  padding: 0 5px 5px 5px;
+  border: 1px solid black;
+}
+
+
 img {
   display: block;
   margin: 0 auto;
