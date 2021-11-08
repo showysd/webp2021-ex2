@@ -15,8 +15,12 @@ h4 {
   font-size: 30px;
 }
 
-h4 {
+h5 {
   font-size: 20px;
+}
+
+h7 {
+  font-size: 25px;
 }
 
 
@@ -39,6 +43,10 @@ h1 {
 
 h2{
   color: #00539F;
+}
+
+h7{
+  color: #ff0000;
 }
 
 body {
