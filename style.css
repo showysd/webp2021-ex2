@@ -32,6 +32,10 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
+h2{
+  color: #00539F;
+}
+
 body {
   width: 600px;
   margin: 0 auto;
